@@ -1,7 +1,7 @@
 # Mahjong-Profit-Counter
 
 A python GUI application made using tkinter package that can track the profits of players during a Mahjong game.
-At the end the application provides a summary of the profits of each player as well as a graph of how profits has changed throughout the course of the game. 
+At the end, the application provides a summary of the profits of each player as well as a graph of how profits has changed throughout the course of the game. 
 
 ## Limitations 
 1. Every player must have DISTINCT names
