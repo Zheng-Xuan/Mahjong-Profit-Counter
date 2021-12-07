@@ -1765,12 +1765,3 @@ class statsPage(tk.Frame):
 if __name__ == '__main__':
     app = Application()
     app.mainloop()
-
-#Limitations
-"""
-Cannot have exactly same names
-Only works for Shooter style
-Only works for 1/2 and 3/6 Counting Method
-Once end game is clicked, cannot update anymore
-Cannot edit inputs (i.e. once the next button is pressed, the event is recorded)
-"""
